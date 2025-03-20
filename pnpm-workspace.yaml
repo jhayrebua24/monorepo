@@ -1,0 +1,2 @@
+packages:
+  - "packages/*" # This includes all projects inside the "packages" folder
